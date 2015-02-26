@@ -102,10 +102,10 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. --C.A.R. Hoare"
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    message: "I love solving complex problems with well-architected software solutions. It can be incredibly rewarding to craft an intricate design and watch it mature into something great.  I'm passionate about software engineering,  design and management techniques that produce reliable, robust software that is pleasurable to maintain and satisfying to use. Most recently I have enjoyed prototyping and creating new user interface designs and blurring the line between developer and graphic designer."
+    author: Jason Carlton
+    position: SOFTWARE ENGINEER
